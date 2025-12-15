@@ -15,6 +15,9 @@ I enjoy building small projects, learning new technologies, and improving my tec
 ---
 
 ## 🏅 Certifications
+- **Oracle Cloud Infrastructure 2024 Certified Cloud Operations Associate** – Oracle
+  📄 Certificate: [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E4D5171CA83F5B7849D3FA2341668DBD3287737EB1A88E8F1DEBC56CF71E32E5)
+
 - **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** – Oracle
   📄 Certificate: [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=47A2DCDAC0158657738DA43F3FA9A8360E3C326FE42457743813F44414425490)
 
@@ -22,10 +25,14 @@ I enjoy building small projects, learning new technologies, and improving my tec
   📄 Certificate: [View Certificate](https://courses.cognitiveclass.ai/certificates/011f037487ab474f8ae01c5c122908bd)
 
 <p align="left">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E4D5171CA83F5B7849D3FA2341668DBD3287737EB1A88E8F1DEBC56CF71E32E5">
+    <img src="https://img.shields.io/badge/Oracle-OCI%20Operations%20Associate-red?logo=oracle&logoColor=white" />
+  </a>
+  <br/>
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=47A2DCDAC0158657738DA43F3FA9A8360E3C326FE42457743813F44414425490">
     <img src="https://img.shields.io/badge/Oracle-OCI%20Foundations-red?logo=oracle&logoColor=white" />
   </a>
-  <br/>
+  <br/>
   <a href="https://courses.cognitiveclass.ai/certificates/011f037487ab474f8ae01c5c122908bd">
     <img src="https://img.shields.io/badge/CognitiveClass-SQL%20101-blue" />
   </a>
