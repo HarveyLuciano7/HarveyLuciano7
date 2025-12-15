@@ -25,6 +25,7 @@ I enjoy building small projects, learning new technologies, and improving my tec
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=47A2DCDAC0158657738DA43F3FA9A8360E3C326FE42457743813F44414425490">
     <img src="https://img.shields.io/badge/Oracle-OCI%20Foundations-red?logo=oracle&logoColor=white" />
   </a>
+  <br/>
   <a href="https://courses.cognitiveclass.ai/certificates/011f037487ab474f8ae01c5c122908bd">
     <img src="https://img.shields.io/badge/CognitiveClass-SQL%20101-blue" />
   </a>
