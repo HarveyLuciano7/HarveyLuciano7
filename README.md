@@ -18,11 +18,11 @@ I enjoy building small projects, learning new technologies, and improving my tec
 - **SQL and Relational Databases 101** – Cognitive Class
   📄 Certificate: [View Certificate](https://courses.cognitiveclass.ai/certificates/011f037487ab474f8ae01c5c122908bd)
 
-- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** – Oracle
-  📄 Certificate: [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=47A2DCDAC0158657738DA43F3FA9A8360E3C326FE42457743813F44414425490)
-
 - **Oracle Data Platform 2025 Certified Foundations Associate** – Oracle
   📄 Certificate: [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E4D5171CA83F5B7849D3FA2341668DBD3287737EB1A88E8F1DEBC56CF71E32E5)
+
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** – Oracle
+  📄 Certificate: [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=47A2DCDAC0158657738DA43F3FA9A8360E3C326FE42457743813F44414425490)
 
 - **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** – Oracle
   📄 Certificate: [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6C81CED882C3DFB35E852B7F1D71AFC2AC0583B4BB987D3814E09261F8E3EB5)
