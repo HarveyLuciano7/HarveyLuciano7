@@ -25,7 +25,7 @@ I enjoy building small projects, learning new technologies, and improving my tec
   📄 Certificate: [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=47A2DCDAC0158657738DA43F3FA9A8360E3C326FE42457743813F44414425490)
 
 - **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** – Oracle
-  📄 Certificate: [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6C81CED882C3DFB35E852B7F1D71AFC2AC0583B4BB987D3814E09261F8E3EB5)
+  📄 Certificate: [View Certificate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E6C81CED882C3DFB35E852B7F1D71AFC2AC0583B4BB987D3814E09261F8E3EB5)
 
 ---
 
